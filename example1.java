@@ -1,5 +1,5 @@
 //----------- java class problems -----------
-
+// Remove comments for execution of three(3) projects
 
 /*package javaproblems; // -------------------------------------------->1st prblm
 interface BankAccount {
@@ -136,3 +136,4 @@ public class example1 implements Playable {
 	}
 	
 }*/
+
